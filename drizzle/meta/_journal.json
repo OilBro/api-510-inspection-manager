@@ -29,6 +29,20 @@
       "when": 1765322165107,
       "tag": "0003_chubby_leopardon",
       "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1765409808493,
+      "tag": "0004_naive_mulholland_black",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "5",
+      "when": 1765409839474,
+      "tag": "0005_faulty_black_cat",
+      "breakpoints": true
     }
   ]
 }
